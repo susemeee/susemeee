@@ -31,7 +31,8 @@
 ### 📫 연락처
 - [Facebook](https://facebook.com/susemeee)
 - [Instagram](https://instagram.com/susemeee)
-> 휴대폰 번호와 이메일 주소는 GitHub 프로필에 있습니다.
+- [LinkedIn](https://linkedin.com/in/suho-lee-00274211b)
+> 휴대폰 번호와 이메일 주소는 상기 프로필에 기재되어 있습니다.
 
 ### 🤔 Etc.
 - 현재 구직 중이 아닙니다. 채용 제안은 사양하겠습니다 :)
