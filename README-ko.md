@@ -16,7 +16,7 @@
 - 서버 개발 : node.js, NestJS, Python, django, SQL, MongoDB, PHP
 - 앱/프로그램 개발 : iOS, Swift, C++, C, C#
 - 인프라스트럭처 엔지니어링 : Linux, PowerShell, Remote Desktop Services, AWS, Cisco IOS, vmware vSphere
-- 데이터 분석, 머신러닝, 딥 러닝 (KNN, Korean NLP, Image segmentation)
+- 데이터 분석, 머신러닝 (한국어 자연어 처리, 이미지 segmentation, 강화학습)
 
 ### 🎓 학력
 - 고려대학교 정보대학 컴퓨터학과
