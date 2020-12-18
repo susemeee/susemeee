@@ -30,7 +30,6 @@
 
 ### 📫 연락처
 - [Facebook](https://facebook.com/susemeee)
-- [Instagram](https://instagram.com/susemeee)
 - [LinkedIn](https://linkedin.com/in/suho-lee-00274211b)
 > 휴대폰 번호와 이메일 주소는 상기 프로필에 기재되어 있습니다.
 
