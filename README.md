@@ -31,9 +31,8 @@
 
 ### 📫 Post office box
 - [Facebook](https://facebook.com/susemeee)
-- [Instagram](https://instagram.com/susemeee)
 - [LinkedIn](https://linkedin.com/in/suho-lee-00274211b)
-> Please refer to one of those Profiles to find out my e-mail address and/or phone number.
+> Please refer to one of those profiles to find out my e-mail address and/or phone number.
 
 ### 🤔 Etc.
 - Currently not finding any jobs, so please do not send me any job opportunities(for now).
