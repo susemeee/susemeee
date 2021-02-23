@@ -6,7 +6,9 @@
 - susuyo
 
 ### 📝 경력
-- 주식회사 헬프미, 풀 스택 웹 개발자
+- [모라니크](https://app.moranique.com), 모바일 앱 개발자
+  - 2020년 9월 ~ 현재
+- 주식회사 [헬프미](https://www.help-me.kr), 풀 스택 웹 개발자
   - 2015년 9월 ~ 2020년 3월
 - 프리랜서
   - 2018년 1월 ~ 현재
@@ -32,6 +34,3 @@
 - [Facebook](https://facebook.com/susemeee)
 - [LinkedIn](https://linkedin.com/in/suho-lee-00274211b)
 > 휴대폰 번호와 이메일 주소는 상기 프로필에 기재되어 있습니다.
-
-### 🤔 Etc.
-- 현재 구직 중이 아닙니다. 채용 제안은 사양하겠습니다 :)
