@@ -36,9 +36,6 @@
 - [LinkedIn](https://linkedin.com/in/suho-lee-00274211b)
 > Please refer to one of those profiles to find out my e-mail address and/or phone number.
 
-### 🤔 Etc.
-- Currently not finding any jobs, so please do not send me any job opportunities(for now).
-
 <!--
 **susemeee/susemeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
