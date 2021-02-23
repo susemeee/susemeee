@@ -7,6 +7,8 @@
 - susuyo
 
 ### 📝 Work experience
+- Mobile application developer, Moranique
+  - 09/2020 - Present
 - Full-stack web developer, Help me co., Ltd.
   - 09/2015 - 03/2020
 - Freelancer
