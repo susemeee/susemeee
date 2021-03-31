@@ -8,7 +8,7 @@
 
 ### 📝 Work experience
 - Mobile application developer, [Moranique](https://app.moranique.com)
-  - 09/2020 - Present
+  - 09/2020 - 03/2021
 - Full-stack web developer, [Help me](https://www.help-me.kr) co., Ltd.
   - 09/2015 - 03/2020
 - Freelancer
