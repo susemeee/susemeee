@@ -33,7 +33,7 @@
 
 ### 📫 Post office box
 - [Facebook](https://facebook.com/susemeee)
-- [LinkedIn](https://linkedin.com/in/suho-lee-00274211b)
+- ~~[LinkedIn](https://linkedin.com/in/suho-lee-00274211b)~~ currently deactivated
 > Please refer to one of those profiles to find out my e-mail address and/or phone number.
 
 <!--
