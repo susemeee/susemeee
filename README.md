@@ -20,6 +20,7 @@
 - Application programming : iOS, Swift, C++, C, and C#
 - Infrastructure engineering : Linux, PowerShell, Remote Desktop Services, AWS, Cisco IOS, and vmware vSphere
 - Data analysis, and Machine learning (Korean NLP, Image segmentation, Reinforcement learning)
+- Algorithmic trading (Cryptocurrency, stock and futures)
 
 ### 🎓 Education
 - Bachelor of Computer Science, Korea University
