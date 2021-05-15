@@ -19,6 +19,7 @@
 - 앱/프로그램 개발 : iOS, Swift, C++, C, C#
 - 인프라스트럭처 엔지니어링 : Linux, PowerShell, Remote Desktop Services, AWS, Cisco IOS, vmware vSphere
 - 데이터 분석, 머신러닝 (한국어 자연어 처리, 이미지 segmentation, 강화학습)
+- 알고리즘 트레이딩
 
 ### 🎓 학력
 - 고려대학교 정보대학 컴퓨터학과
@@ -32,5 +33,5 @@
 
 ### 📫 연락처
 - [Facebook](https://facebook.com/susemeee)
-- [LinkedIn](https://linkedin.com/in/suho-lee-00274211b)
+- ~~[LinkedIn](https://linkedin.com/in/suho-lee-00274211b)~~ 비활성화 상태입니다.
 > 휴대폰 번호와 이메일 주소는 상기 프로필에 기재되어 있습니다.
