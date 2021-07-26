@@ -32,10 +32,7 @@
 - Motorsport
 - Finding a nice coffee shop
 
-### 📫 Post office box
-- [Facebook](https://facebook.com/susemeee)
-- ~~[LinkedIn](https://linkedin.com/in/suho-lee-00274211b)~~ currently deactivated
-> Please refer to one of those profiles to find out my e-mail address and/or phone number.
+<!-- I've recently closed all of my public social media account. Sorry :( -->
 
 <!--
 **susemeee/susemeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
