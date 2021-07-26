@@ -31,7 +31,4 @@
 - 모터스포츠
 - 맛있는 커피를 파는 카페 찾기
 
-### 📫 연락처
-- [Facebook](https://facebook.com/susemeee)
-- ~~[LinkedIn](https://linkedin.com/in/suho-lee-00274211b)~~ 비활성화 상태입니다.
-> 휴대폰 번호와 이메일 주소는 상기 프로필에 기재되어 있습니다.
+<!-- 최근 공개적인 SNS 계정을 모두 비활성화하였습니다. -->
