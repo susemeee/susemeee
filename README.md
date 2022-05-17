@@ -7,6 +7,8 @@
 - susuyo
 
 ### 📝 Work experience
+- Co-Founder, [Sally](https://sally.co.kr) Corp.
+  - _Sally is a company whose main business is eCommerce for export and algorithmic trading._
 - Mobile application developer, [Moranique](https://app.moranique.com)
   - 09/2020 - 03/2021
 - Full-stack web developer, [Help me](https://www.help-me.kr) co., Ltd.
@@ -32,7 +34,9 @@
 - Motorsport
 - Finding a nice coffee shop
 
-<!-- I've recently closed all of my public social media account. Sorry :( -->
+### 📪 P.O. box
+- [Instagram](https://instagram.com/susemeee)
+- [Personal Blog (backlink)](https://blog.susuyo.ai/?utm_source=github&utm_medium=about_en)
 
 <!--
 **susemeee/susemeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
