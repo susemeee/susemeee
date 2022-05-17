@@ -6,6 +6,8 @@
 - susuyo
 
 ### 📝 경력
+- 주식회사 [샐리](https://sally.co.kr), 공동 창업자
+  - _주식회사 샐리는 수출업과 알고리즘 트레이딩을 사업으로 하는 법인입니다._
 - [모라니크](https://app.moranique.com), 모바일 앱 개발자
   - 2020년 9월 ~ 2021년 3월
 - 주식회사 [헬프미](https://www.help-me.kr), 풀 스택 웹 개발자
@@ -31,4 +33,7 @@
 - 모터스포츠
 - 맛있는 커피를 파는 카페 찾기
 
-<!-- 최근 공개적인 SNS 계정을 모두 비활성화하였습니다. -->
+### 📪 연락처
+- [Instagram](https://instagram.com/susemeee)
+- [블로그](https://blog.susuyo.ai/?utm_source=github&utm_medium=about_ko)
+
