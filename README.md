@@ -27,7 +27,7 @@
 
 ### 🎓 Education
 - Bachelor of Computer Science, Korea University
-  - 03/2014 - Present
+  - 03/2014 - 08/2022
 
 ### 🔭 Hobbies
 - Photography
