@@ -7,8 +7,8 @@
 - susuyo
 
 ### 📝 Work experience
-- Co-Founder, [Sally](https://sally.co.kr) Corp.
-  - _Sally is a company whose main business is eCommerce for export and algorithmic trading._
+- Co-Founder, [Sally](https://sally.co.kr) co., Ltd.
+  - _Sally is a company whose main business is eCommerce for export, software development, and algorithmic trading._
   - 12/2021 - Present
 - Mobile application developer, [Moranique](https://app.moranique.com)
   - 09/2020 - 03/2021
