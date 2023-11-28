@@ -35,6 +35,5 @@
 - 맛있는 커피를 파는 카페 찾기
 
 ### 📪 연락처
-- [Instagram](https://instagram.com/susemeee)
 - [블로그](https://blog.susuyo.ai/?utm_source=github&utm_medium=about_ko)
 
