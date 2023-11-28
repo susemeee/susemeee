@@ -36,7 +36,6 @@
 - Finding a nice coffee shop
 
 ### 📪 P.O. box
-- [Instagram](https://instagram.com/susemeee)
 - [Personal Blog (backlink)](https://blog.susuyo.ai/?utm_source=github&utm_medium=about_en)
 
 <!--
