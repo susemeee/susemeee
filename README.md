@@ -7,9 +7,13 @@
 - susuyo
 
 ### 📝 Work experience
+- Head of Platform / Software Engineering Lead, [Kiip Corporation](https://kiipcorp.com/)
+  - 06/2026 - Present
+- CTO, [Ainsoft](https://ainsoft.com)
+  - 01/2026 - 05/2026
 - Co-Founder, [Sally](https://sally.co.kr) co., Ltd.
   - _Sally is a company whose main business is eCommerce for export, software development, and algorithmic trading._
-  - 12/2021 - Present
+  - 12/2021 - 12/2025
 - Mobile application developer, [Moranique](https://app.moranique.com)
   - 09/2020 - 03/2021
 - Full-stack web developer, [Help me](https://www.help-me.kr) co., Ltd.
@@ -18,12 +22,12 @@
   - 01/2018 - Present
 
 ### 🏄‍ Skills
-- Front-end web development : React, AngularJS, ECMAScript, and TypeScript
-- Back-end server development : node.js, NestJS, Python, django, SQL, MongoDB, and PHP
-- Application programming : iOS, Swift, C++, C, and C#
-- Infrastructure engineering : Linux, PowerShell, Remote Desktop Services, AWS, Cisco IOS, and vmware vSphere
-- Data analysis, and Machine learning (Korean NLP, Image segmentation, Reinforcement learning)
-- Algorithmic trading (Cryptocurrency, stock and futures)
+- **Languages:** TypeScript, JavaScript, Python, PHP, Swift, Solidity
+- **Frontend:** React, Next.js, Vue, Nuxt, Svelte, Tailwind CSS, Storybook
+- **Backend:** Node.js, NestJS, Express, Fastify, Django, Flask
+- **Data / Automation:** PostgreSQL, MySQL, MongoDB, Supabase, Puppeteer, Playwright, Selenium
+- **Infra / Platform:** AWS, Docker, Cloudflare, GitHub Actions, Grafana, InfluxDB
+- **Mobile / Other:** Capacitor, Flutter, React Native WebView, WebGL, WebGPU
 
 ### 🎓 Education
 - Bachelor of Computer Science, Korea University
